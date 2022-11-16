@@ -9,4 +9,5 @@ git branch -M main
     - tableau des scores
     - une pause
 
-![tetris](https://github.com/MmeOokamy/pygame-tetris/asset/img/pygame_tetris.png?raw=true)
+![tetris](/asset/img/pygame_tetris.png?raw=true)
+![tetris](https://github.com/MmeOokamy/pygame-tetris/blob/main/asset/img/pygame_tetris.png?raw=true)
