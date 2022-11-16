@@ -1,6 +1,6 @@
 # Tetris with PyGame
 
-git branch -M main
+Jeu tetris fait avec pygame. 
 
 ### ajout:
     - Ecran de menu 
