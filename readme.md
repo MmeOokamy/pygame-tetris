@@ -10,4 +10,3 @@ git branch -M main
     - une pause
 
 ![tetris](/asset/img/pygame_tetris.png?raw=true)
-![tetris](https://github.com/MmeOokamy/pygame-tetris/blob/main/asset/img/pygame_tetris.png?raw=true)
